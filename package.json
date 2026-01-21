@@ -139,10 +139,10 @@
     "vite": "^6.4.1",
     "vitest": "^3.2.4"
   },
-   "engines": {
-  "node": "18.19.0",
-  "npm": "9.x"
-   },
+      "engines": {
+      "node": "22.x",
+      "npm": "10.x"
+      },
   "overrides": {
     "cmdk": "^1.1.1",
     "react-day-picker": "^9.9.0"
